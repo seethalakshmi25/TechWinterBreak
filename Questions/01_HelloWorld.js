@@ -4,5 +4,6 @@
 function printHelloWorld() {
   // Write code here
 }
+
 printHelloWorld(); 
 // Expected Output: Hello, World!
