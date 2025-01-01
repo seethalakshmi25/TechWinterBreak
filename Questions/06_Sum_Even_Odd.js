@@ -1,4 +1,4 @@
-// Question 2: 
+// Question 6: 
 //Write a function that takes two numbers as parameters. If both are even, return their sum; if both are odd, return their difference 
 //and if both are different return -1.
 
