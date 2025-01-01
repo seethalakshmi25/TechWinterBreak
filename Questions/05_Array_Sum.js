@@ -1,4 +1,4 @@
-// Question 6: Write a function that calculates the sum of all numbers in an array.
+// Question 5: Write a function that calculates the sum of all numbers in an array.
 
 function calculateSum(numbers) {
   // Write code here
