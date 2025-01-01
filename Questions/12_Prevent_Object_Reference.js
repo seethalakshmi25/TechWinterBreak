@@ -1,5 +1,5 @@
-// Question: Write a function that accepts an object `person` and creates a new object `newPerson` 
-// using the spread operator (`...`) to copy the properties of `person`. 
+// Question 12: Write a function that accepts an object `person` and creates a new object `newPerson` 
+// using the operator (`...`) to copy the properties of `person`. 
 // Then, modify the `age` property of `newPerson` and print both objects to ensure that the original `person` object remains unchanged.
 
 function updateAge(person) {
