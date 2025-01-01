@@ -2,7 +2,7 @@
 //Write a function named sumOrDifference that takes two numbers as parameters. If both are even, return their sum; if both are odd, return their difference 
 //and if both are different return -1.
 
-// Write code here
+// Write function here
 
 
 
