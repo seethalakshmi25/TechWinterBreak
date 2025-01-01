@@ -1,4 +1,4 @@
-// Question: Write an arrow function that accepts two numbers and returns their product. 
+// Question 9: Write an arrow function that accepts two numbers and returns their product. 
 // Use an arrow function to define it.
 
 
