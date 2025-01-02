@@ -2,7 +2,7 @@
 
 function printNumbers(numbers) {
   // Write code here
-   for(let i = 0;i < numbers.length;i++)
+   for(let i=0;i < numbers.length;i++)
         console.log(numbers[i]);
 }
 printNumbers([1, 2, 3, 4, 5]); 
